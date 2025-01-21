@@ -1,5 +1,5 @@
 # git_test
---- 
+--- ---
 ### 계산기 코드 환경 설정
 1. python 설치
     -python 홈페이지에 접속하여 파일을 다운로드([python download](https://www.python.org/downloads/))
